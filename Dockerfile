@@ -1,4 +1,4 @@
-FROM benmcclelland/orcm-git-centos
+FROM lrrajesh/orcm-git-centos
 
 MAINTAINER Ben McClelland <ben.mcclelland@gmail.com>
 
